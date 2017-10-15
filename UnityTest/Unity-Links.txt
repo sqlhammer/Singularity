@@ -1,0 +1,19 @@
+Tutorial Links
+
+RTS - Tutorial
+http://stormtek.geek.nz/rts_tutorial/part1.php
+
+Unity RTS Demo
+https://github.com/stormtek/unity-rts-demo
+
+How to Write Your Own Programming Language in C#
+http://www.codemag.com/article/1607081
+
+Collection of Unity Tutorials
+https://forum.unity.com/threads/collection-of-unity-tutorials.234490/
+
+A Split-and-Merge Expression Parser in C#
+https://msdn.microsoft.com/magazine/mt573716
+
+Customizable Scripting in C#
+https://msdn.microsoft.com/en-us/magazine/mt632273.aspx
